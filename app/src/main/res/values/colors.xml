@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="deep_green_cyan_turquoise">#157A6E</color>
+    <color name="polished_pine">#489E94</color>
+    <color name="green_sheen">#77B2AB</color>
+    <color name="silver_sand">#BAC4C3</color>
+    <color name="verdigris">#4AB5A8</color>
 </resources>
