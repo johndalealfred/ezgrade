@@ -1,6 +1,7 @@
 package fueledbysushi.ezgrade.activities;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -26,7 +27,7 @@ public class SplashActivity extends Activity {
         Runnable runnable = new Runnable() {
             @Override
             public void run() {
-
+                startActivity(new Intent(SplashActivity.this, LoginActivity.class));
             }
         };
 
