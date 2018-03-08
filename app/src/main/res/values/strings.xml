@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ezgrade</string>
+    <string name="app_name">ezGrade</string>
+    <string name="company_name">Fueled by Sushi</string>
 </resources>
